@@ -1,1 +1,1 @@
-string device_name
+string DeviceName

@@ -1,1 +1,1 @@
-int32 batteryLevel
+int32 BatteryLevel
