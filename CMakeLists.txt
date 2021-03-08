@@ -53,7 +53,7 @@ add_message_files(
    FingerFeedbackMsg.msg
    BatteryLevelMsg.msg
    DeviceInformationMsg.msg
-# )
+)
 
 ## Generate services in the 'srv' folder
 # add_service_files(
